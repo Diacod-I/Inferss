@@ -1,2 +1,3 @@
 # Research Paper Inferences
-Repository for the Inferences I have made reading Research Papers
+This repository consists of a list of inferences and key takeaways I have drawn from reading research papers.<br>
+The takeaways also contains references from not only the research paper itself, but also combines summaries of various other concepts and studies that are related to the paper in order to get a good understanding of what the paper is trying to emphasize and basically helps you make inferences from the paper yourself.
