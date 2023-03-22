@@ -1,20 +1,22 @@
 # Inferences of Neurosystem Functioning
 
+This is a must-read before dwelling into the vastness of neuroscience. I have created a brief rundown of the necessary concepts for understanding the brain, the studies and the research done so far, whether it be in the medicaal field or in interdisciplinary fields like computational neuroscience.
+
 ## What exactly is the brain?
 
 The brain is a complex organ that controls our thoughts, feelings, and actions. It is made up of billions of neurons, or nerve cells, that communicate with each other through electrical and chemical signals.
 
-Different areas of the brain are responsible for different functions. 
+Different areas of the brain are responsible for different functions. For example:
 
 <aside>
 ✏️ The frontal lobe is responsible for executive functions, such as decision-making, planning, and problem-solving, while the temporal lobe is responsible for processing auditory information and language.
 
-</aside>
+</aside><br><br>
 
 <aside>
 ✏️ The limbic system, which includes structures such as the amygdala and hippocampus, is responsible for processing and regulating emotions, as well as forming and retrieving memories.
 
-</aside>
+</aside><br><br>
 
 Neurons communicate with each other through a process called synaptic transmission, in which chemical messengers called neurotransmitters are released from one neuron and bind to receptors on another neuron. This process allows information to be transmitted from one neuron to another, and allows the brain to process and respond to information from the environment.
 
