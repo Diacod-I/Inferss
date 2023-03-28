@@ -21,8 +21,6 @@
     
     The two parts mentioned above are found to curve into each other as shown in the diagram below. 
     
-    ![Untitled](Hippocampus%20in%20Health%20and%20Disease%20An%20Overview%201e4118dbbf0648bb833adc0e15e9f37b/Untitled.png)
-    
 - Some anatomists prefer to divide the hippocampus into three parts:
     - Cornu Ammonis (CA)
     - Dentate Gyrus (DG)
@@ -31,24 +29,20 @@
     This entire set is called as hippocampal formation.
     
 
-- Another type of divisions for the parts of hippocampus are head, body and tail as shown in Figure 1 below:
+- Another type of divisions for the parts of hippocampus are head, body and tail as shown below:
     - Head is the expanded part
     - Tail is the thin curved part
+
+![Untitled](Untitled.png)
+
+- Also based on histology, Hippocampus Proper (or Cornu Ammonis) is divided into CA1, CA2, CA3, and CA4 as shown below.
     
-    Also based on histology, Hippocampus Proper (or Cornu Ammonis) is divided into CA1, CA2, CA3, and CA4 as shown in Figure 2.
-    
-    ![Untitled](Hippocampus%20in%20Health%20and%20Disease%20An%20Overview%201e4118dbbf0648bb833adc0e15e9f37b/Untitled%201.png)
+    ![Untitled](Untitled%201.png)
     
 
 - Just opposite to CA1, we can find the subiculum which connets the hippocampus with the entorhinal cortex in the ventricle.
 
-![Untitled](Hippocampus%20in%20Health%20and%20Disease%20An%20Overview%201e4118dbbf0648bb833adc0e15e9f37b/Untitled%202.png)
-
-- Below contains an illustration of the circuit map of the hippocampus drawn by **Ramón y Cajal**
-
-![ Circuit of Hippocampus drawn by **Ramón y Cajal**](Hippocampus%20in%20Health%20and%20Disease%20An%20Overview%201e4118dbbf0648bb833adc0e15e9f37b/Untitled%203.png)
-
- Circuit of Hippocampus drawn by **Ramón y Cajal**
+![Untitled](Untitled%202.png)
 
 - Hippocampus is also covered by choroid plexus (layer of cuboidal epithelial tissues with tight junctions surrounding a core of capillaries and loose connective tissue), which prevent substances of metabolic waste from crossing the cell layer into the cerebrospinal fluid thereby acting as a blood cerebrospinal barrier (BCSB).
 - The choroid plexus is also important for [Homeostasis](https://www.britannica.com/science/homeostasis) of Iron, as they are a major source of [transferrin](https://en.wikipedia.org/wiki/Transferrin) secretion.
@@ -61,7 +55,7 @@
     
 - Veins of the hippocampus all drain into the basal vein.
     
-    ![Angiogram representing the arteries connected to the brain](Hippocampus%20in%20Health%20and%20Disease%20An%20Overview%201e4118dbbf0648bb833adc0e15e9f37b/Untitled%204.png)
+    ![Angiogram representing the arteries connected to the brain](Untitled%203.png)
     
     Angiogram representing the arteries connected to the brain
     
@@ -74,7 +68,7 @@
     
 
 - **********************Hippocampus**********************
-    - It is a part of Archicortex (having three layers, except the entorhinal area, which has six layerss).
+    - It is a part of Archicortex (having three layers, except the entorhinal area, which has six layers).
     - It is merely a small extension of the brain.
     - The upper surface (also known as the alveus) is convex (which includes dentate gyrus, subiculum, and entorhinal cortex).
     
@@ -88,14 +82,49 @@ The following shows a Nissl stain experiment on a cross-section of the Hippocamp
 
 3) entorhinal area of the hippocampal formation with its six layers
 
-![Untitled](Hippocampus%20in%20Health%20and%20Disease%20An%20Overview%201e4118dbbf0648bb833adc0e15e9f37b/Untitled%205.png)
+![Untitled](Untitled%204.png)
 
 - The Hippocampus has connections both to and fro from various parts of the brain:
     - Perforant Path:
-        - Axons present in perforant path arise in layer II and layer III of entorhinal cortex (NOT ENTORHINAL AREA OF THE HIPPOCAMPUS!! THE ENTORHINAL CORTEX!!)  with little contribution from deeper layers IV and V.
-        - Axons of layer II and IV project to ganule cells and pyramidal cells of CA3 while those from III and IV project to pyramidal cells of CA1 and subiculum.
+        - The [perforant pathway](https://en.wikipedia.org/wiki/Perforant_path) is a connectional route from entorhinal cortex (NOT ENTORHINAL AREA OF THE HIPPOCAMPUS!! THE ENTORHINAL CORTEX!!) to all fields of the hippocampal formation
+        - Axons present in perforant path arise in layer II and layer III of entorhinal cortex with little contribution from deeper layers IV and V.
+        - Axons of layer II and IV project to granule cells and pyramidal cells of CA3 while those from III and IV project to pyramidal cells of CA1 and subiculum.
         - Retrieval of information is achieved by entrohinal cortex input to CA3 (layer III of perforant path).
         - A distinct pathway also goes from entorhinal cortex (layer III of perforant path to CA1 neurons.
         - Pymaridal cells of CA1 send thier axons to the subiculum and deep layers of the entorhinal cortex and the subicular neurons send thier axons mainly to the entorhinal cortex.
         - Perforant pathway is noteworthy for severe degeneration seen in patients with Alzheimer’s disease.
-    - Entorhinal Cortex: Entorhinal cortex  input to dentate gyrus (layer II of the perforant path) palkys an important role in pattern recognition and econding of memories.
+    - Entorhinal Cortex:
+        - The entorhinal cortex input to dentate gyrus (layer II of the perforant path) plays an important role in pattern recognition and econding of memories.
+        - The hippocampus has direct connections to the entorhinal cortex (via the subiculum) and the amygdala.
+        - The entorhinal cortex is the main interface between the hippocampus and neocortex.
+    - Dentate Gyrus:
+        - It is a deep region within hippocampus and is surrounded by the curnus ammonis (CA).
+        - This plays a crucial role as a processor of information from the Entorhinal Cortex to CA3.
+        - Cells lying in this region discharge at a low frequency and provide low intensity stimulation of CA3, which is said to be an  economical storage process, and this region is also pattern seperation and associate memory.
+    
+    **Schaffer’s Collaterals:**
+    
+    - These are axon collaterals (axons that branch from the main branch of another axon) given off by CA3 cells of hippocampus proper.
+    - The Schaffer collateral is involved in [activity-dependent plasticity](https://en.wikipedia.org/wiki/Activity-dependent_plasticity) and the information processes that always are processed through the hippocampus.
+    
+    > *"Schaffer collateral is the conductor of the orchestra, but not the actual instrument that plays the music" - Dr. Patrick K. Stanton*
+    > 
+    - These collaterals project to area CA1 of the hippocampus and are an integral part of memory formation and the emotional network of the Papez circuit, and of the hippocampal trisynaptic loop.
+    
+    The following shows the Papez circuit:
+    
+    ![Untitled](Untitled%205.png)
+    
+    - The trisynaptic circuit is **a neural circuit in the hippocampus, which is made up of three major cell groups: granule cells in the dentate gyrus, pyramidal neurons in CA3, and pyramidal neurons in CA1**.
+    
+    The following shows the hippocampal trisynaptic loop:
+    
+    ![Untitled](Untitled%206.png)
+    
+    ******************************************Recurrent Colaterals:******************************************
+    
+    The collaterals that send excitatory input to CA3 and are called recurrent collaterals (RC). These play a vital role in holding memory. They accomplish this by creating a negative feedback system by connecting branch of the axon which is the recurrent collateral back into the cell body and communicates this by [Renshaw cells](https://en.wikipedia.org/wiki/Renshaw_cell).
+    
+    The following shows an image of how a typical collateral looks like:
+    
+    ![Untitled](Untitled%207.png)
